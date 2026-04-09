@@ -40,19 +40,7 @@ Plataforma de ventas personalizada para una organización religiosa, facilitando
 ---
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Stats de GitHub" />
-</p>
-
----
-
 ## 📫 Contacto
 * **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/joaquin-sangiorgio/)
 * **Email:** joacosangiorgio1@gmail.com
-
----
-
-<p align="center">
-  "El código es poesía, pero el despliegue es la realidad." 💻✨
-</p>
+--
